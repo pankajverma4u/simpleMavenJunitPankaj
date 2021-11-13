@@ -1,6 +1,6 @@
 # simpleMavenJunit
 testing simple Junit in Java code with Maven
-
+Adding new line to test auto execution of Git, Maven and jenkin
 ##To Compile the Code
 $mvn compile
 
